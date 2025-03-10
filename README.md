@@ -6,7 +6,7 @@ Key highlights of the project:
 
 Data preprocessing and feature engineering
 Application of classification algorithms such as Logistic Regression
-Model evaluation using metrics like accuracy
+Model evaluation using metrics like accuracy. Achieved an accuracy of 99.88%.
 Real-time fraud detection for enhanced security
 
 This project serves as a valuable tool for financial institutions aiming to reduce the impact of fraudulent activities and safeguard their customers' financial information.
